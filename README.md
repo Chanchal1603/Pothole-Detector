@@ -1,6 +1,6 @@
 # PotHoleDetector
 
-##Reason for selecting problem statement 
+Reason for selecting problem statement 
 
 Bad roads infrastructure can lead to reduced road safety. One of the major problems we see on Indian roads is potholes. Increased traffic, blocked lanes, injuries, and even deaths; all of these issues are linked to potholes and bad roads in a major way.Especially accident deaths happened last year are more than 30% due to lack of proper roads.
 
