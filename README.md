@@ -1,6 +1,6 @@
 # PotHoleDetector
 
-Reason for selecting problem statement 
+Reason for selecting problem statement
 
 Bad roads infrastructure can lead to reduced road safety. One of the major problems we see on Indian roads is potholes. Increased traffic, blocked lanes, injuries, and even deaths; all of these issues are linked to potholes and bad roads in a major way.Especially accident deaths happened last year are more than 30% due to lack of proper roads.
 
@@ -22,7 +22,7 @@ Due to space constraint in github we uploaded on google drive.
 The below link provides the data set images folder .The output obatined in the Results folder are with accuracy and efficiency https://drive.google.com/file/d/1pUcpNrRm3fZrwmGfH0aGm_WEA5Pl9sZ5/view?usp=sharing
 
 
-*******Results folder images are extracted by using opencv******
+******Results folder images are extracted by using opencv******
 
 
 Technology stack used for Project*
@@ -49,7 +49,7 @@ Submission Video hosted on youtube details as follows:
 
 https://www.youtube.com/watch?v=A1sGngPQ7Ts&feature=youtu.be
 
-Implementation
+******Implementation******
 
 Project implementation made by using recorder video clip will be converted into image frames using open CV and will be shared to the Azure Custom vision Api to detect the Potholes. The Images with potholes prediction percentage of 50 or more will be considered and the corresponding geo-location of the image will be send to the Azure functions api. The azure function api will take care of persisting the received information into the azure sql server database. The admin can extract the data and a visualize the data with Azure Power BI reports for analytics and can group the data by Date, Location, severity, etc.
 
