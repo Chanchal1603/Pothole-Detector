@@ -63,3 +63,7 @@ Project implementation made by using recorder video clip will be converted into 
 ![](https://raw.githubusercontent.com/Apollo9999/PotHoleDetector/master/images/Screenshot%20(114).png)
 ![](https://raw.githubusercontent.com/Apollo9999/PotHoleDetector/master/images/Screenshot%20(115).png)
 
+Contributor:
+Kiran Kumar
+Vaibhav Jain
+Chanchal Bansal
