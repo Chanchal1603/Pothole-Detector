@@ -1,0 +1,43 @@
+.input-form
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:1em;
+    justify-content: center;
+
+}
+.report-header
+{
+    text-align: center;
+    margin: 50px 0;
+}
+.input-label{
+   
+    background: none;
+
+    color: grey;
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+}
+.form-input
+{
+    background: none;
+    background-color: white;
+    color: grey;
+    font-size: 18px;
+    padding: 10px 10px 10px 5px;
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid grey;
+    margin: 10px 0;
+}
+.report
+{
+    width: 70%;
+    margin: 50px auto;
+}
