@@ -1,4 +1,4 @@
-# PotHoleDetector
+# PotHoleDetector Problem
 
 Reason for selecting problem statement 
 
@@ -25,7 +25,7 @@ The below link provides the data set images folder .The output obatined in the R
 *******Results folder images are extracted by using opencv******
 
 
-Technology stack used for Project*
+Technology stack used for Project
 
 PotHole Detection : Azure Function
 
